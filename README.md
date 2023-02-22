@@ -7,5 +7,6 @@
 - 🔭 I’m currently working on ...A CMS based on ASP.NET WebForms.
 - 🌱 I’m currently learning ...Python/Java
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...Blog - DotNet.Guide
-- 📫 How to reach me: ...@JohnBhatt
+- 🤔 I’m looking for help with ... [Blog](https://DotNet.Guide)
+- 🎥 Would Appreciate if you subscribe me on [YouTube](https://go.pyarb.com/PRBHindi)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/@JohnBhatt) | [Facebook](https://facebook.com/JohnBhatt) | [Forum](https://dotnet.guide/forum)
