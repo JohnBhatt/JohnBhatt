@@ -5,11 +5,14 @@
 -->
 
 - 🔭 I’m currently working on ...A CMS based on ASP.NET WebForms.
+- 🔭 I’m currently working on ...Multi Tenant web app based in ASP.NET Core MVC with EF Core.
 - 🌱 I’m currently learning ...Python/Java
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... [Blog](https://DotNet.Guide)
 - 🎥 Would Appreciate if you subscribe me on [YouTube](https://go.pyarb.com/PRBHindi)
 - 📫 How to reach me: ... [Twitter](https://twitter.com/@JohnBhatt) | [Facebook](https://facebook.com/JohnBhatt) | [Forum](https://dotnet.guide/forum)
-- 
-[![GitHub John Bhatt](https://img.shields.io/github/followers/johnbhatt?label=follow&style=social)](https://github.com/JohnBhatt)
-![](https://komarev.com/ghpvc/?username=johnbhatt)
+
+[![GitHub John Bhatt](https://img.shields.io/github/followers/johnbhatt?label=follow&style=for-the-badge)](https://github.com/JohnBhatt)
+[![Linkedin John Bhatt](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnbhatt/)](https://www.linkedin.com/in/johnbhatt/)
+![](https://komarev.com/ghpvc/?username=johnbhatt&style=for-the-badge)
+
+### Thank you for your visit 🙋‍♂️
